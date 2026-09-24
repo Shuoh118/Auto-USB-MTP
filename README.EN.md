@@ -46,8 +46,8 @@ This project is licensed under the Mulan Public License, Version 2 (Mulan PubL v
 
 ## Releases & Feedback
 
-- Release page: https://github.com/Shuoh118/Auto-USB/releases  
-- Issue reporting: https://github.com/Shuoh118/Auto-USB/issues  
+- Release page:<https://github.com/Shuoh118/Auto-USB/releases>
+- Issue reporting:<https://github.com/Shuoh118/Auto-USB/issues>
 
 ## Credits
 

@@ -46,8 +46,8 @@ Xposed/LSPosed 模块：插线后自动把 USB 连接模式切到 MTP，不用�
 
 ## 发布与反馈
 
-- 发布页面：https://github.com/Shuoh118/Auto-USB/releases
-- 问题反馈：https://github.com/Shuoh118/Auto-USB/issues
+- 发布页面：<https://github.com/Shuoh118/Auto-USB/releases>
+- 问题反馈：<https://github.com/Shuoh118/Auto-USB/issues>
 
 ## 最后
 
