@@ -2,7 +2,7 @@
 
 Xposed/LSPosed 模块：插线后自动把 USB 连接模式切到 MTP，不用每次手动下拉通知栏点选。
 -----
-[English](README_EN.md)
+[English](README.EN.md)
 
 ## 功能
 
